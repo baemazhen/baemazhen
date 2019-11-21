@@ -27,7 +27,8 @@ author = "baemazhen"
 
 after_dark_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/about", name = "About"}
+    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/colophon", name = "Colophon"}
 ]
 
 after_dark_title = "baemazhen"
