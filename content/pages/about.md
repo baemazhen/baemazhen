@@ -4,9 +4,9 @@ path = "about"
 template = "spage.html"
 +++
 
-I do stuff and whatever. huzzah
+I post about things. I work on stuff. Whatever. Huzzah!
 
-* **Email**: baemazhen@baemazhen.com
-* **Key**: [public.asc](/public.asc)
+* **Email**: [baemazhen@baemazhen.com](mailto:)
+* **PGP**: [key](/public.txt)
 * **Twitter**: [@baemazhen](https://twitter.com/baemazhen)
 * **GitHub**: [baemazhen](https://github.com/baemazhen)
