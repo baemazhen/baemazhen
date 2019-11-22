@@ -12,7 +12,7 @@ It is currently hosted on an [Ubuntu Linux](https://ubuntu.com/server) VPS insta
 
 SSL certificates are provided by [Let's Encrypt](https://letsencrypt.org/).
 
-This website **DOES NOT** contain:
+This website deliberately **DOES NOT** contain:
 
 - JavaScript
 - cookies
@@ -25,13 +25,9 @@ This website **DOES NOT** contain:
 - advertisements
 - more cowbell
 
-This is deliberate and by design... **remember the old ways**.
-
 ### Deployment
 
 Deployment simply consists of running `zola build` locally and then using `scp` (secure copy) to copy the generated output to the server.
-
-No need for CI, build pipelines, git hooks, etc. just to deploy a static website... **remember the old ways**.
 
 ## License and Source
 
