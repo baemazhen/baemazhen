@@ -10,8 +10,6 @@ This website is built using [Zola](https://www.getzola.org/), a static site gene
 
 It is hosted on an [Ubuntu Linux](https://ubuntu.com/server) VPS instance and served by [Nginx](https://nginx.org/).
 
-## No Bad Stuff
-
 This website **DOES NOT** contain any
 
 - JavaScript

@@ -41,13 +41,13 @@ code[class*=language-], pre[class*=language-], pre code {
 
 a {
   cursor: pointer;
-  color: #00E68A;
+  color: #59bd9e;
   text-decoration: none;
-  border-bottom: 1px solid #00E68A;
+  border-bottom: 1px solid #59bd9e;
 }
 
 a:hover {
-  background-color: #00B36B;
+  background-color: #59bd9e;
   color: #fff
 }
 
@@ -208,7 +208,7 @@ a:hover {
 }
 
 .hack h1:after {
-  content: "####################################################################################################";
+  content: "----------------------------------------------------------------------------------------------------";
   position: absolute;
   bottom: 10px;
   left: 0;
