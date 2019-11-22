@@ -89,6 +89,16 @@ article [itemprop="summary"] p {
   margin: 0;
 }
 
+hr.hrheading {
+  padding: 0px;
+  margin: 0px 0px 20px 0px;
+  color: #59bd9e;
+}
+
+p.published {
+  margin-top: 0px;
+}
+
 @media screen and (min-width: 768px) {
   html {
     font-size: 1em;

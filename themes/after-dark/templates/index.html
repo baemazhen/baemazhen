@@ -43,7 +43,8 @@
             <main>
                 {% if config.extra.after_dark_title %}
                     <header>
-                        <h1>{{ config.extra.after_dark_title }}</h1>
+                        <h1 itemprop="headline">{{ config.extra.after_dark_title }}</h1>
+                        <hr class="hrheading">
                     </header>
                 {% endif %}
                 {% for page in paginator.pages %}

@@ -202,17 +202,9 @@ a:hover {
   position: relative;
   display: inline-block;
   display: table-cell;
-  padding: 20px 0 30px;
+  padding: 20px 0px 0px;
   margin: 0;
-  overflow: hidden
-}
-
-.hack h1:after {
-  content: "----------------------------------------------------------------------------------------------------";
-  position: absolute;
-  bottom: 10px;
-  left: 0;
-  color: #59bd9e;
+  overflow: hidden;
 }
 
 .hack h1 + * {
@@ -312,7 +304,7 @@ a:hover {
   height: 20px;
   overflow: hidden;
   border: 0;
-  margin: 20px 0
+  margin: 20px 0px 5px;
 }
 
 .hack hr:after {
