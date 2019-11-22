@@ -8,15 +8,20 @@ template = "spage.html"
 
 This website is built using [Zola](https://www.getzola.org/), a static site generator.
 
-It is hosted on an [Ubuntu Linux](https://ubuntu.com/server) VPS instance and served by [Nginx](https://nginx.org/).
-
 This website **DOES NOT** contain any
 
 - JavaScript
 - cookies
-- remotely loaded assets
+- remotely loaded assets or fonts
 - trackers
+- advertisements
+
+## Deployment
+
+Deployment simply consists of running `zola build` and then using `scp` to copy the generated output to the server.
+
+It is currently hosted on an [Ubuntu Linux](https://ubuntu.com/server) VPS instance and served by [Nginx](https://nginx.org/).
 
 ## Source
 
-You can get the source code for this website on GitHub at [baemazhen/baemazhen](https://github.com/baemazhen/baemazhen)
+Source code is available on GitHub at [baemazhen/baemazhen](https://github.com/baemazhen/baemazhen)
