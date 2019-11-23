@@ -13,9 +13,10 @@ I post about things. I work on stuff. Whatever. Huzzah!
 
 ## Social
 
-- **Mastodon**: <a rel="me" href="https://mastodon.social/@baemazhen">@baemazhen</a>
+- **Mastodon**: <a rel="me" href="https://mastodon.social/@baemazhen">@baemazhen@mastodon.social</a>
+- **Twitter**: [@baemazhen](https://twitter.com/baemazhen)
 
 ## Source Code / Projects
 
 - **GitHub**: [baemazhen](https://github.com/baemazhen)
-- **sourcehut**: [baemazhen](https://git.sr.ht/~baemazhen/)
+- **sourcehut**: [~baemazhen](https://git.sr.ht/~baemazhen/)
