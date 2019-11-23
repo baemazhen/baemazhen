@@ -11,6 +11,10 @@ I post about things. I work on stuff. Whatever. Huzzah!
 - **Email**: [baemazhen@baemazhen.com](mailto:)
 - **PGP**: [key](/public.txt)
 
+## Social
+
+- **Mastodon**: <a rel="me" href="https://mastodon.social/@baemazhen">@baemazhen</a>
+
 ## Source Code / Projects
 
 - **GitHub**: [baemazhen](https://github.com/baemazhen)

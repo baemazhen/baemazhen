@@ -13,7 +13,7 @@ template = "spage.html"
 
 This website is built using [Zola](https://www.getzola.org/), a static site generator.
 
-It is currently hosted on an [Ubuntu Linux](https://ubuntu.com/server) VPS instance and served by [Nginx](https://nginx.org/).
+It is currently hosted on a small [Ubuntu Linux](https://ubuntu.com/server) VPS instance and served by [Nginx](https://nginx.org/).
 
 SSL certificates are provided by [Let's Encrypt](https://letsencrypt.org/).
 
