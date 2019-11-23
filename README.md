@@ -17,7 +17,7 @@ zola serve
 
 Site will be accessible at http://127.0.0.1:1111
 
-### Building and Deploy WWW site
+### Build and Deploy WWW site
 
 Build the WWW site (outputs generated site to `public/`):
 ```bash
@@ -29,7 +29,7 @@ Deploy the changes
 scp -r public/* user@example.com:/home/user/www/
 ```
 
-### Building and Deploy Tor site
+### Build and Deploy Tor site
 
 Build the Tor site (outputs generated site to `onion/`)
 ```bash

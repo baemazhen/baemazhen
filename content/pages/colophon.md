@@ -30,6 +30,10 @@ This website deliberately **DOES NOT** contain:
 - advertisements
 - more cowbell
 
+### Version Control
+
+Changes to the site are simultaneously pushed to git repositories on both [GitHub](https://github.com) and [sourcehut](https://sourcehut.org) for redundancy.
+
 ### Deployment
 
 Deployment simply consists of running `zola build` locally and then using `scp` (secure copy) to copy the generated output to the server.
@@ -38,4 +42,6 @@ Deployment simply consists of running `zola build` locally and then using `scp` 
 
 The content for this site is [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). The code for this site is [MIT](https://opensource.org/licenses/MIT). 
 
-Source code and site content is available on GitHub at [baemazhen/baemazhen](https://github.com/baemazhen/baemazhen)
+Source code and site content is available on:
+- GitHub: [github.com/baemazhen/baemazhen](https://github.com/baemazhen/baemazhen)
+- sourcehut: [git.sr.ht/~baemazhen/baemazhen](https://git.sr.ht/~baemazhen/baemazhen)
