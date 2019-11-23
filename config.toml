@@ -22,7 +22,6 @@ taxonomies = [
     {name = "tags", rss = true},
 ]
 
-
 [extra]
 
 author = "baemazhen"

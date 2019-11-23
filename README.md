@@ -17,11 +17,26 @@ zola serve
 
 You then can access the site locally at http://127.0.0.1:1111
 
-### Building It
+### Building and Deploying It
 
-Build the site (outputs generated site to `public/`):
+Build the WWW site (outputs generated site to `public/`):
 ```bash
 zola build
+```
+
+Deploy the changes
+```bash
+scp -r public/* user@example.com:/home/user/www/
+```
+
+Build the Tor site (outputs generated site to `onion/`)
+```bash
+zola build --base-url 57rwj2hdhdsvw6qunvzbiaqbkx2g6y5vysfwn7liihamnku7dlamy4yd.onion --output-dir onion
+```
+
+Deploy the changes
+```bash
+scp -r onion/* user@example.com:/home/user/onion/
 ```
 
 ## License
