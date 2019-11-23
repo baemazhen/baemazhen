@@ -6,7 +6,7 @@ template = "spage.html"
 
 ## Access
 
-- Clearnet: [baemazhen.com](https://www.baemazhen.com)
+- WWW: [baemazhen.com](https://www.baemazhen.com)
 - Tor: [57rwj2hdhdsvw6qunvzbiaqbkx2g6y5vysfwn7liihamnku7dlamy4yd.onion](http://57rwj2hdhdsvw6qunvzbiaqbkx2g6y5vysfwn7liihamnku7dlamy4yd.onion)
 
 ## Technology
